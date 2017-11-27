@@ -1,4 +1,7 @@
 """
+
+Jonathan Kinnard was here
+
 Demonstrates using OBJECTS via Turtle Graphics.
 
 Concepts include:
