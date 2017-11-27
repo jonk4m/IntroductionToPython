@@ -17,7 +17,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 """
 ########################################################################
 #
-# TODO: 1.
+# Done: 1.
 #  (Yes, that means for YOU to DO things per these instructions:)
 #
 # On Line 13 above, replace  PUT_YOUR_OWN_NAME_HERE  with your OWN name.
@@ -32,7 +32,7 @@ import rosegraphics as rg
 
 ########################################################################
 #
-# TODO: 2.
+# Done: 2.
 #   Allow this file to use the rosegraphics.py file by marking the src
 #   directory as a "Sources Root".  Do that by right clicking on the src folder,
 #   then selector  Mark Directory As --> Sources Root
@@ -96,12 +96,10 @@ matt.forward(100)
 matt.right(90)
 matt.forward(100)
 
-#CC
-
 
 ########################################################################
 #
-# TODO: 3.
+# Done: 3.
 #   Add a few more line of your own code above to make one of the
 #   existing Turtles move some more and/or have different
 #   characteristics.
@@ -115,9 +113,9 @@ matt.forward(100)
 
 ########################################################################
 #
-# TODO: 4.
+# Done: 4.
 #   The code above  CONSTRUCTS  two SimpleTurtle objects and gives those objects NAMES:
-#       dave    matt
+#       dave matt
 #
 #   Below this TO DO comment construct another SimpleTurtle object,
 #       naming it whatever you want.
@@ -134,9 +132,16 @@ matt.forward(100)
 #
 ########################################################################
 
+Caitlin = rg.SimpleTurtle()
+Caitlin.backward(200)
+Caitlin.left(90)
+Caitlin.forward(100)
+Caitlin.left(90)
+Caitlin.forward(50)
+
 ########################################################################
 #
-# TODO: 5.
+# Done: 5.
 #   Run one more time to be sure that all is still OK.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #
