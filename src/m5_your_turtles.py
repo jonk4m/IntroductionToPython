@@ -2,10 +2,10 @@
 Your chance to explore Loops and Turtles!
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+         their colleagues and Jonathan Kinnard.
 """
 ########################################################################
-# TODO: 1.
+# Done: 1.
 # On Line 5 above, replace  PUT_YOUR_NAME_HERE  with your own name.
 ########################################################################
 
