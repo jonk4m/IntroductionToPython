@@ -1,4 +1,4 @@
-########################################################################
+##############################################################################
 #
 #   Run this module by right clicking anywhere in this window, then select
 #        Run 'name of file'
@@ -7,10 +7,12 @@
 #   Once you have run the file, feel free to play with it some, then you
 #   can move on to m2.
 #
-########################################################################
+##############################################################################
+
+
 
 print('Hello, World')
-print('hi there')
-print('one', 'two', 'buckle my shoe')
-print(3 + 9)
-print('3 + 9', 'versus', 3 + 9)
+#print('hi there')
+#print('one', 'two', 'buckle my shoe')
+#print(3 + 9)
+#print('3 + 9', 'versus', 3 + 9)
